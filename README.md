@@ -1,7 +1,7 @@
 ### Oie
 Sou a Ana Clara, desenvolvedora de front-end, muito prazer!
 
-- 🌱 Estou estudando JavaScript e PHP
+- 🌱 Estou estudando JavaScript, Python e PHP
 - 📫 Fale comigo pelo instagram: @maciel_clana
 - 😄 Pronomes: Ela/Dela
 
